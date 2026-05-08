@@ -1,5 +1,7 @@
 # claude-skills-starter-pack
 
+![claude-skills-starter-pack](assets/banner.png)
+
 **12 battle-tested Claude Code skills for running a business on AI.**
 
 Every skill in this repo has been used in real daily operations — not demos, not prototypes. Clone the repo, copy the skills you want, and you're up and running in minutes.
