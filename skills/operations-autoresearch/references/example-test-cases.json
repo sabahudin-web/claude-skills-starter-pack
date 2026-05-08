@@ -1,0 +1,72 @@
+[
+  {
+    "lead_name": "Jana Kovač",
+    "role": "Founder & CEO",
+    "company": "AsyncHQ",
+    "industry": "SaaS / Remote Work Tools",
+    "recent_post_topic": "Replaced their ops manager with Notion automations"
+  },
+  {
+    "lead_name": "Marco Bianchi",
+    "role": "Head of Operations",
+    "company": "Scalepath",
+    "industry": "B2B Consulting",
+    "recent_post_topic": "Posted about AI failing his team during a client crunch"
+  },
+  {
+    "lead_name": "Sophie Wagner",
+    "role": "Solo Consultant",
+    "company": "Wagner Advisory",
+    "industry": "Executive Coaching",
+    "recent_post_topic": "Shared that she's building a second revenue stream from digital products"
+  },
+  {
+    "lead_name": "Arjun Mehta",
+    "role": "Co-Founder",
+    "company": "Clearpath AI",
+    "industry": "AI Tools for SMBs",
+    "recent_post_topic": "Wrote about why 80% of AI projects fail at implementation"
+  },
+  {
+    "lead_name": "Lena Fischer",
+    "role": "Director of Strategy",
+    "company": "Brightfield Group",
+    "industry": "Market Research / Consulting",
+    "recent_post_topic": "No recent post found — ICP match based on role and company size"
+  },
+  {
+    "lead_name": "Tom Hadley",
+    "role": "Owner",
+    "company": "Hadley Ops",
+    "industry": "Operations Consulting",
+    "recent_post_topic": "Complained about clients who want AI 'but not AI'"
+  },
+  {
+    "lead_name": "Priya Nair",
+    "role": "Founder",
+    "company": "Flowstate Studio",
+    "industry": "Productivity / Knowledge Work",
+    "recent_post_topic": "Launched a new async coaching program for founders"
+  },
+  {
+    "lead_name": "Rafael Costa",
+    "role": "VP of Growth",
+    "company": "Deepscale",
+    "industry": "B2B SaaS",
+    "recent_post_topic": "Shared a thread on scaling a sales team without SDRs"
+  },
+  {
+    "lead_name": "Ingrid Holm",
+    "role": "Independent Consultant",
+    "company": "Self-employed",
+    "industry": "Change Management",
+    "recent_post_topic": "Posted about how her clients resist automation even when it saves them time"
+  },
+  {
+    "lead_name": "David Park",
+    "role": "Founder",
+    "company": "Stackr Systems",
+    "industry": "No-Code / Workflow Automation",
+    "recent_post_topic": "Shared his stack for running a 6-figure solo business"
+  }
+]
